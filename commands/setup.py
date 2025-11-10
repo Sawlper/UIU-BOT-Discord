@@ -12,7 +12,7 @@ class Setup(commands.Cog):
         self.client = client
         self.memory_file = "data/notices_memory.json"
     
-    # Memory management functions duplicated here to ensure /setup works
+
     def _load_memory(self):
         try:
             with open(self.memory_file, 'r') as f:
