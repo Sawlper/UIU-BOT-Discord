@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1145898013846468618/1299970218761418783/uiu_banner.gif" width="85%">
+  <img src="https://github.com/Sawlper/UIU-BOT-Discord/blob/0d5e53a8c7b6cb22f8cd807fa0942ba6f2b564dd/Asset/CommandsPVWgifs/Screenshot%202025-11-10%20022703.png" width="28%">
 </p>
 
 <p align="center"><i> Always in sync with your campus updates.</i></p>
@@ -49,26 +49,26 @@ python main.py
 
 | Category                                                                                   | Commands                           | Description                                  |
 | ------------------------------------------------------------------------------------------ | ---------------------------------- | -------------------------------------------- |
-| <img src="https://cdn.discordapp.com/emojis/1107423976077543424.gif" width="20"/> General  | `/ping`, `/about`, `/help`         | latency, Info & guide for all other commands |
-| <img src="https://cdn.discordapp.com/emojis/1078349875366254663.gif" width="20"/> Academic | `/notices`, `/calendar`            | UIU notices both auto and manual & dates     |
-| <img src="https://cdn.discordapp.com/emojis/1078350042043850853.gif" width="20"/> Admin    | `/setup`, `/stop_notices`, `/poll` | Manage posts, stop posting notices & polls   |
+|  General  | `/ping`, `/about`, `/help` (without any admin perms) | Bot latency, Info about the bot & guide for all other commands |
+|  Academic | `/notices`, `/calendar` (without any admin perms)| Shows UIU latest notices and the calender for all students      |
+|  Admin    | `/setup`, `/stop_notices`, `/poll` ( admin perms are needed) | Set auto post notices, stop posting notices & polls   |
 
 
 
 ## ⚡ Highlights
 
-- <img src="https://github.com/Sawlper/Minimal-Kepper/blob/e277bd7e8efec474735af5d5d48723b1c72b894e/Icon%20Gifs/Sync.gif" width="20" height="20" valign="middle"/>  **Automatic notice updates**  async background fetching  
-- <img src="https://github.com/Sawlper/Minimal-Kepper/blob/ce8c66daaa9a04685e0e9218b35399bd07cb3d76/Icon%20Gifs/Api.gif" width="20" height="20" valign="middle"/>   **Slash commands**  modern UX for all users  
-- <img src="https://github.com/Sawlper/Minimal-Kepper/blob/ce8c66daaa9a04685e0e9218b35399bd07cb3d76/Icon%20Gifs/Setup.gif" width="25" height="25" valign="middle"/> **Admin tools**  setup & automation  
-- <img src="https://github.com/Sawlper/Minimal-Kepper/blob/ce8c66daaa9a04685e0e9218b35399bd07cb3d76/Icon%20Gifs/Sustainability.gif" width="25" height="25" valign="middle"/> **Lightweight** JSON persistence, no DB needed
+- <img src="https://github.com/Sawlper/UIU-BOT-Discord/blob/485ba68d207d39fb67eb55626f3b570354ce355b/Asset/Icon%20%20gifs/Sync.gif" width="20" height="20" valign="middle"/>  **Automatic notice updates**  async background fetching  
+- <img src="https://github.com/Sawlper/UIU-BOT-Discord/blob/485ba68d207d39fb67eb55626f3b570354ce355b/Asset/Icon%20%20gifs/Api.gif" width="20" height="20" valign="middle"/>   **Slash commands**  modern UX for all users  
+- <img src="https://github.com/Sawlper/UIU-BOT-Discord/blob/485ba68d207d39fb67eb55626f3b570354ce355b/Asset/Icon%20%20gifs/Setup.gif" width="25" height="25" valign="middle"/> **Admin tools**  setup & automation  
+- <img src="https://github.com/Sawlper/UIU-BOT-Discord/blob/485ba68d207d39fb67eb55626f3b570354ce355b/Asset/Icon%20%20gifs/Sustainability.gif" width="25" height="25" valign="middle"/> **Lightweight** JSON persistence, no DB needed
 
 
 
 <h1 align="center"> Command Previews</h1>
 
 <div align="center">
-  <img src="https://github.com/Sawlper/Minimal-Kepper/blob/dfba9b8e2abcbcb236d717ee0a626bfc5390344d/Gifs/bothelp.gif" width="49%" style="margin-right: 10px;">
-  <img src="https://github.com/Sawlper/Minimal-Kepper/blob/dfba9b8e2abcbcb236d717ee0a626bfc5390344d/Gifs/dcsetup.gif" width="49%">
+  <img src="https://github.com/Sawlper/UIU-BOT-Discord/blob/485ba68d207d39fb67eb55626f3b570354ce355b/Asset/CommandsPVWgifs/bothelp.gif" width="49%" style="margin-right: 10px;">
+  <img src="https://github.com/Sawlper/UIU-BOT-Discord/blob/485ba68d207d39fb67eb55626f3b570354ce355b/Asset/CommandsPVWgifs/dcsetup.gif" width="49%">
 </div>
 
 <p align="center">
@@ -110,6 +110,12 @@ python main.py
 
 
 
+
+<p align="center">
+  <a href="https://discord.com/api/oauth2/authorize?client_id=1434163768488890549&permissions=8&scope=bot%20applications.commands">
+    <img src="https://img.shields.io/badge/INVITE%20UIU%20BOT-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Invite UIU BOT">
+  </a>
+</p>
 
 
 
